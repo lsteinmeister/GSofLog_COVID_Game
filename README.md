@@ -1,4 +1,4 @@
-# GSofLog_COVID_Game
+# GSofLog COVID Game
 This is a game I programmed in collaboration with a colleage from the Graduate School of Logistics. The game is up an can be played here: [GSofLog Game](https://gsoflog.lfo.tu-dortmund.de/gsoflog-game/).
 
 ## Credits:
