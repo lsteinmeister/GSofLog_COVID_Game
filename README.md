@@ -6,3 +6,5 @@ This is a game I programmed in collaboration with a colleage from the Graduate S
 The game is built ontop of the free [TopDown AI](https://assetstore.unity.com/packages/templates/topdown-ai-54579) asset by Rodrigo Fernandez.
 
 Music: [Chan Walrus](https://chanwalrus.com/music-archive/ )
+
+Any additional graphic designs may be owned by the Graduate School of Logistics. 
