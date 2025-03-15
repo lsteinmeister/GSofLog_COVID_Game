@@ -7,4 +7,4 @@ The game is built ontop of the free [TopDown AI](https://assetstore.unity.com/pa
 
 Music: [Chan Walrus](https://chanwalrus.com/music-archive/ )
 
-Any additional graphic designs may be owned by the [Graduate School of Logistics](https://gsoflog.lfo.tu-dortmund.de/en/). 
+Any graphic designs not included by the TopDown AU asset may be owned by the [Graduate School of Logistics](https://gsoflog.lfo.tu-dortmund.de/en/). 
